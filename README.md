@@ -30,15 +30,19 @@ NexMart is a Flutter-based e-commerce application that offers a seamless shoppin
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/akhil-varsh/nexmart.git
-   cd nexmart
    ```
-
-2. **Install Dependencies**
+   
+2. **Navigate to Folder**
+   ```bash
+   cd nex
+   ```
+   
+3. **Install Dependencies**
    ```bash
    flutter pub get
    ```
 
-3. **Run the Application**
+4. **Run the Application**
    ```bash
    flutter run
    ```
