@@ -1,6 +1,6 @@
 # NexMart 🛒
 
-![NexMart Banner](https://via.placeholder.com/1200x300?text=NexMart+E-Commerce+App)
+![NexMart Banner](nex/nexmart-logo-svg.svg)
 
 NexMart is a Flutter-based e-commerce application that offers a seamless shopping experience with a responsive UI and feature-rich functionalities.
 
