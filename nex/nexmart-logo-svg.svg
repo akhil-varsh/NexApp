@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <rect width="300" height="100" fill="#f0f0f0"/>
+  <text x="150" y="60" font-family="Arial, sans-serif" font-size="40" fill="#333333" text-anchor="middle">
+    Nex<tspan fill="#4a90e2">Mart</tspan>
+  </text>
+  <path d="M40,70 L60,70 L65,55 L35,55 Z" fill="#4a90e2"/>
+  <circle cx="45" cy="75" r="5" fill="#333333"/>
+  <circle cx="55" cy="75" r="5" fill="#333333"/>
+  <path d="M270,50 L280,70 L260,70 Z" fill="#4a90e2"/>
+</svg>
