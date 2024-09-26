@@ -19,6 +19,11 @@ NexMart is a Flutter-based e-commerce application that offers a seamless shoppin
 |:-----------:|:---------------:|:-------------:|
 | ![Home Screen](https://github.com/akhil-varsh/NexApp/blob/main/nex%2FScreenshot_20240925_134507.png) | ![Shopping Cart](https://github.com/akhil-varsh/NexApp/blob/main/nex%2FScreenshot_20240925_134555.png) | ![Payment Screen](https://github.com/akhil-varsh/NexApp/blob/main/nex%2FScreenshot_20240925_134639.png) |
 
+## Video Reference
+<a href="https://youtu.be/DqO6mE1KQJM?si=0gojTe1rU60dFXIt" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch demo on YouTube">
+</a>
+
 ## 🛠 Technologies Used
 
 - **Flutter & Dart**: For building a cross-platform, responsive UI
