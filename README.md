@@ -69,3 +69,9 @@ NexMart utilizes the **Fake Store API** to fetch product data:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+
+<p align="center">
+  Made with ❤️ by Akhil
+</p>
+
