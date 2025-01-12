@@ -11,7 +11,6 @@ NexMart is a Flutter-based e-commerce application that offers a seamless shoppin
 - **Detailed Product Views**: Get comprehensive information about each item
 - **Shopping Cart**: Easily manage your selected items
 - **Smooth Checkout**: Hassle-free payment process
-- **Secure Payments**: Multiple payment options for your convenience
 
 ## 📱 App Screenshots
 
