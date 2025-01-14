@@ -1,4 +1,4 @@
-# NexMart 🛒
+# NexMart 
 
 ![NexMart Banner](nex/nexmart-logo-svg.svg)
 
